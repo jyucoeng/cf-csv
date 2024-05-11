@@ -1,0 +1,100 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+34.82.188.91,443,true,SEA,North America,Seattle,205 ms,8954 kB/s
+34.154.74.38,443,true,FRA,Europe,Frankfurt,246 ms,6981 kB/s
+34.65.165.167,443,true,FRA,Europe,Frankfurt,240 ms,6807 kB/s
+34.154.195.87,443,true,FRA,Europe,Frankfurt,235 ms,6620 kB/s
+35.204.110.138,443,true,FRA,Europe,Frankfurt,228 ms,6287 kB/s
+34.65.252.181,443,true,FRA,Europe,Frankfurt,245 ms,6068 kB/s
+34.154.104.94,443,true,FRA,Europe,Frankfurt,240 ms,5909 kB/s
+34.154.158.199,443,true,FRA,Europe,Frankfurt,231 ms,5902 kB/s
+34.116.206.226,443,true,FRA,Europe,Frankfurt,245 ms,5880 kB/s
+34.141.222.30,443,true,FRA,Europe,Frankfurt,255 ms,5741 kB/s
+34.118.121.202,443,true,FRA,Europe,Frankfurt,255 ms,5215 kB/s
+35.204.113.35,443,true,FRA,Europe,Frankfurt,242 ms,5125 kB/s
+34.118.19.99,443,true,FRA,Europe,Frankfurt,262 ms,4853 kB/s
+34.116.220.118,443,true,FRA,Europe,Frankfurt,273 ms,4697 kB/s
+34.118.7.117,443,true,FRA,Europe,Frankfurt,257 ms,4423 kB/s
+34.154.216.235,443,true,FRA,Europe,Frankfurt,237 ms,4360 kB/s
+34.116.249.186,443,true,FRA,Europe,Frankfurt,255 ms,4060 kB/s
+34.107.63.174,443,true,FRA,Europe,Frankfurt,244 ms,3999 kB/s
+34.118.50.168,443,true,FRA,Europe,Frankfurt,264 ms,3987 kB/s
+34.90.199.151,443,true,FRA,Europe,Frankfurt,242 ms,3596 kB/s
+35.246.224.243,443,true,FRA,Europe,Frankfurt,240 ms,3497 kB/s
+34.154.213.128,443,true,FRA,Europe,Frankfurt,242 ms,3026 kB/s
+35.242.238.22,443,true,FRA,Europe,Frankfurt,253 ms,2942 kB/s
+35.234.82.81,443,true,FRA,Europe,Frankfurt,231 ms,2874 kB/s
+35.222.230.126,2053,true,ORD,North America,Chicago,248 ms,2559 kB/s
+34.118.37.232,443,true,FRA,Europe,Frankfurt,257 ms,2528 kB/s
+35.197.23.75,443,true,SEA,North America,Seattle,205 ms,2485 kB/s
+34.118.69.236,443,true,FRA,Europe,Frankfurt,270 ms,2428 kB/s
+34.65.149.214,443,true,FRA,Europe,Frankfurt,254 ms,2324 kB/s
+35.204.106.202,443,true,FRA,Europe,Frankfurt,239 ms,2318 kB/s
+34.65.204.57,443,true,FRA,Europe,Frankfurt,256 ms,2190 kB/s
+34.32.137.92,443,true,FRA,Europe,Frankfurt,261 ms,2169 kB/s
+34.154.199.235,443,true,FRA,Europe,Frankfurt,233 ms,2105 kB/s
+34.65.191.113,443,true,FRA,Europe,Frankfurt,237 ms,2068 kB/s
+34.147.70.249,443,true,FRA,Europe,Frankfurt,249 ms,2006 kB/s
+34.159.214.62,443,true,FRA,Europe,Frankfurt,235 ms,1989 kB/s
+34.107.98.219,443,true,FRA,Europe,Frankfurt,247 ms,1958 kB/s
+35.246.179.198,443,true,FRA,Europe,Frankfurt,246 ms,1937 kB/s
+34.41.252.92,443,true,ORD,North America,Chicago,251 ms,1929 kB/s
+34.159.29.245,443,true,FRA,Europe,Frankfurt,259 ms,1907 kB/s
+34.154.78.70,443,true,FRA,Europe,Frankfurt,242 ms,1905 kB/s
+34.107.1.157,443,true,FRA,Europe,Frankfurt,244 ms,1886 kB/s
+35.242.218.94,443,true,FRA,Europe,Frankfurt,249 ms,1878 kB/s
+34.154.36.170,443,true,FRA,Europe,Frankfurt,233 ms,1852 kB/s
+34.107.49.193,443,true,FRA,Europe,Frankfurt,247 ms,1839 kB/s
+35.198.127.175,443,true,FRA,Europe,Frankfurt,242 ms,1756 kB/s
+34.89.190.224,443,true,FRA,Europe,Frankfurt,251 ms,1638 kB/s
+34.154.79.210,443,true,FRA,Europe,Frankfurt,232 ms,1500 kB/s
+34.65.174.234,443,true,FRA,Europe,Frankfurt,247 ms,1475 kB/s
+35.230.79.26,443,true,SEA,North America,Seattle,208 ms,1474 kB/s
+34.154.199.135,443,true,FRA,Europe,Frankfurt,229 ms,1462 kB/s
+34.116.206.127,443,true,FRA,Europe,Frankfurt,266 ms,1456 kB/s
+34.65.243.157,443,true,FRA,Europe,Frankfurt,244 ms,1455 kB/s
+34.91.45.105,443,true,FRA,Europe,Frankfurt,252 ms,1432 kB/s
+34.118.46.98,443,true,FRA,Europe,Frankfurt,258 ms,1404 kB/s
+35.204.137.199,443,true,FRA,Europe,Frankfurt,244 ms,1388 kB/s
+34.154.127.230,443,true,FRA,Europe,Frankfurt,258 ms,1387 kB/s
+34.154.75.218,443,true,FRA,Europe,Frankfurt,240 ms,1359 kB/s
+34.65.184.187,443,true,FRA,Europe,Frankfurt,254 ms,1353 kB/s
+35.234.87.24,443,true,FRA,Europe,Frankfurt,259 ms,1228 kB/s
+34.107.20.255,443,true,FRA,Europe,Frankfurt,230 ms,1196 kB/s
+34.154.71.140,443,true,FRA,Europe,Frankfurt,238 ms,1177 kB/s
+35.204.211.172,443,true,FRA,Europe,Frankfurt,258 ms,1168 kB/s
+35.234.100.139,443,true,FRA,Europe,Frankfurt,238 ms,1119 kB/s
+34.107.17.201,443,true,FRA,Europe,Frankfurt,235 ms,1091 kB/s
+34.118.65.97,443,true,FRA,Europe,Frankfurt,241 ms,1081 kB/s
+35.204.82.231,443,true,FRA,Europe,Frankfurt,251 ms,1065 kB/s
+34.65.205.103,443,true,FRA,Europe,Frankfurt,238 ms,1027 kB/s
+34.83.75.32,443,true,SEA,North America,Seattle,219 ms,960 kB/s
+34.34.64.190,443,true,FRA,Europe,Frankfurt,247 ms,889 kB/s
+34.141.41.25,443,true,FRA,Europe,Frankfurt,249 ms,854 kB/s
+34.107.9.183,443,true,FRA,Europe,Frankfurt,235 ms,848 kB/s
+34.159.190.107,443,true,FRA,Europe,Frankfurt,241 ms,812 kB/s
+34.154.150.96,443,true,FRA,Europe,Frankfurt,243 ms,793 kB/s
+34.159.215.56,443,true,FRA,Europe,Frankfurt,250 ms,790 kB/s
+35.198.117.88,443,true,FRA,Europe,Frankfurt,245 ms,704 kB/s
+34.154.6.72,443,true,FRA,Europe,Frankfurt,241 ms,689 kB/s
+34.65.195.159,443,true,FRA,Europe,Frankfurt,241 ms,611 kB/s
+34.91.190.69,443,true,FRA,Europe,Frankfurt,239 ms,534 kB/s
+34.89.246.208,443,true,FRA,Europe,Frankfurt,252 ms,518 kB/s
+34.154.198.74,443,true,FRA,Europe,Frankfurt,250 ms,460 kB/s
+35.202.158.120,443,true,ORD,North America,Chicago,255 ms,409 kB/s
+34.141.64.132,443,true,FRA,Europe,Frankfurt,241 ms,246 kB/s
+34.118.90.222,443,true,FRA,Europe,Frankfurt,266 ms,128 kB/s
+35.201.203.106,443,true,TPE,Asia Pacific,Taipei,79 ms,0 kB/s
+34.154.84.26,443,true,FRA,Europe,Frankfurt,249 ms,0 kB/s
+35.234.107.189,443,true,FRA,Europe,Frankfurt,244 ms,0 kB/s
+34.82.76.253,443,true,SEA,North America,Seattle,204 ms,0 kB/s
+34.154.36.125,443,true,FRA,Europe,Frankfurt,230 ms,0 kB/s
+34.141.114.249,443,true,FRA,Europe,Frankfurt,235 ms,0 kB/s
+35.204.195.174,443,true,FRA,Europe,Frankfurt,247 ms,0 kB/s
+34.116.145.227,443,true,FRA,Europe,Frankfurt,255 ms,0 kB/s
+34.141.213.9,443,true,FRA,Europe,Frankfurt,240 ms,0 kB/s
+34.141.221.132,443,true,FRA,Europe,Frankfurt,246 ms,0 kB/s
+34.154.70.101,443,true,FRA,Europe,Frankfurt,247 ms,0 kB/s
+34.116.184.215,443,true,FRA,Europe,Frankfurt,243 ms,0 kB/s
+34.159.135.189,443,true,FRA,Europe,Frankfurt,229 ms,0 kB/s
+34.90.255.182,443,true,FRA,Europe,Frankfurt,239 ms,0 kB/s
+34.116.214.235,443,true,FRA,Europe,Frankfurt,262 ms,0 kB/s
