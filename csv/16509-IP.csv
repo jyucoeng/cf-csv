@@ -1,65 +1,65 @@
-IP地址	端口	TLS	数据中心	地区	城市	网络延迟	下载速度
-18.167.20.205	443	true	HKG	Asia Pacific	Hong Kong	134 ms	16556 kB/s
-18.166.180.230	8443	true	HKG	Asia Pacific	Hong Kong	148 ms	15715 kB/s
-18.167.194.154	443	true	HKG	Asia Pacific	Hong Kong	140 ms	14793 kB/s
-13.57.182.91	443	true	SJC	North America	San Jose	184 ms	10261 kB/s
-13.125.218.78	443	true	ICN	Asia Pacific	Seoul	104 ms	9391 kB/s
-18.162.40.255	443	true	HKG	Asia Pacific	Hong Kong	133 ms	7867 kB/s
-13.124.81.29	443	true	ICN	Asia Pacific	Seoul	101 ms	6602 kB/s
-3.144.191.4	443	true	ORD	North America	Chicago	237 ms	6399 kB/s
-54.200.244.93	443	true	SEA	North America	Seattle	212 ms	6113 kB/s
-3.15.147.151	2083	true	ORD	North America	Chicago	234 ms	5733 kB/s
-54.185.82.224	443	true	SEA	North America	Seattle	228 ms	5498 kB/s
-18.216.55.100	443	true	ORD	North America	Chicago	234 ms	2711 kB/s
-18.185.81.73	443	true	FRA	Europe	Frankfurt	198 ms	2071 kB/s
-18.185.86.127	8443	true	FRA	Europe	Frankfurt	193 ms	1711 kB/s
-13.43.173.97	8443	true	LHR	Europe	London	207 ms	1691 kB/s
-13.38.81.58	8443	true	CDG	Europe	Paris	198 ms	1641 kB/s
-13.38.53.164	8443	true	CDG	Europe	Paris	193 ms	1638 kB/s
-15.156.194.152	8443	true	YUL	North America	Montréal	265 ms	1615 kB/s
-52.212.168.5	8443	true	DUB	Europe	Dublin	214 ms	1516 kB/s
-18.130.249.35	2096	true	LHR	Europe	London	200 ms	1263 kB/s
-13.51.161.19	443	true	ARN	Europe	Stockholm	204 ms	1228 kB/s
-35.177.209.223	443	true	LHR	Europe	London	206 ms	1198 kB/s
-18.168.254.65	8443	true	LHR	Europe	London	204 ms	1196 kB/s
-13.53.48.6	8443	true	WAW	Europe	Warsaw	211 ms	1167 kB/s
-54.78.247.14	2053	true	DUB	Europe	Dublin	217 ms	1164 kB/s
-13.51.173.26	8443	true	WAW	Europe	Warsaw	205 ms	883 kB/s
-13.40.87.247	443	true	LHR	Europe	London	210 ms	761 kB/s
-52.74.101.26	443	true	SIN	Asia Pacific	Singapore	95 ms	684 kB/s
-18.167.208.181	443	true	HKG	Asia Pacific	Hong Kong	128 ms	642 kB/s
-54.249.173.119	443	true	NRT	Asia Pacific	Tokyo	75 ms	627 kB/s
-18.198.4.243	8443	true	FRA	Europe	Frankfurt	194 ms	612 kB/s
-13.40.87.247	8080	true	LHR	Europe	London	204 ms	496 kB/s
-13.51.48.84	2096	true	ARN	Europe	Stockholm	211 ms	444 kB/s
-13.60.42.73	8080	true	ARN	Europe	Stockholm	209 ms	412 kB/s
-54.201.19.60	443	true	SEA	North America	Seattle	224 ms	336 kB/s
-13.60.48.254	443	true	ARN	Europe	Stockholm	212 ms	326 kB/s
-99.83.209.185	443	true	IAD	North America	Ashburn	192 ms	278 kB/s
-13.36.230.17	8443	true	CDG	Europe	Paris	204 ms	230 kB/s
-18.132.164.98	443	true	LHR	Europe	London	205 ms	217 kB/s
-52.213.11.150	443	true	DUB	Europe	Dublin	219 ms	141 kB/s
-3.66.232.244	8443	true	FRA	Europe	Frankfurt	196 ms	134 kB/s
-18.197.7.176	443	true	FRA	Europe	Frankfurt	193 ms	80 kB/s
-18.169.172.216	443	true	LHR	Europe	London	208 ms	73 kB/s
-3.65.21.45	443	true	FRA	Europe	Frankfurt	196 ms	70 kB/s
-13.37.171.65	2053	true	CDG	Europe	Paris	195 ms	70 kB/s
-18.192.113.68	8443	true	FRA	Europe	Frankfurt	193 ms	61 kB/s
-18.184.55.249	443	true	FRA	Europe	Frankfurt	193 ms	54 kB/s
-13.51.132.60	443	true	OSL	Europe	Oslo	202 ms	54 kB/s
-13.50.13.141	2053	true	ARN	Europe	Stockholm	206 ms	51 kB/s
-13.43.138.247	8080	true	LHR	Europe	London	206 ms	51 kB/s
-52.211.193.42	443	true	CDG	Europe	Paris	210 ms	51 kB/s
-13.42.76.114	8443	true	LHR	Europe	London	201 ms	42 kB/s
-13.60.41.100	8080	true	ARN	Europe	Stockholm	206 ms	42 kB/s
-13.60.4.148	8443	true	ARN	Europe	Stockholm	208 ms	38 kB/s
-13.53.197.103	8080	true	ARN	Europe	Stockholm	211 ms	33 kB/s
-13.53.126.251	8443	true	ARN	Europe	Stockholm	208 ms	28 kB/s
-13.36.240.146	8443	true	CDG	Europe	Paris	197 ms	28 kB/s
-18.156.30.219	443	true	FRA	Europe	Frankfurt	189 ms	27 kB/s
-13.36.240.146	443	true	CDG	Europe	Paris	198 ms	22 kB/s
-13.49.18.114	443	true	ARN	Europe	Stockholm	212 ms	0 kB/s
-13.250.131.37	443	true	SIN	Asia Pacific	Singapore	94 ms	0 kB/s
-13.40.197.230	8080	true	LHR	Europe	London	211 ms	0 kB/s
-54.179.184.9	80	true	SIN	Asia Pacific	Singapore	100 ms	0 kB/s
-13.48.245.19	443	true	ARN	Europe	Stockholm	205 ms	0 kB/s
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+18.167.20.205,443,true,HKG,Asia Pacific,Hong Kong,134 ms,16556 kB/s
+18.166.180.230,8443,true,HKG,Asia Pacific,Hong Kong,148 ms,15715 kB/s
+18.167.194.154,443,true,HKG,Asia Pacific,Hong Kong,140 ms,14793 kB/s
+13.57.182.91,443,true,SJC,North America,San Jose,184 ms,10261 kB/s
+13.125.218.78,443,true,ICN,Asia Pacific,Seoul,104 ms,9391 kB/s
+18.162.40.255,443,true,HKG,Asia Pacific,Hong Kong,133 ms,7867 kB/s
+13.124.81.29,443,true,ICN,Asia Pacific,Seoul,101 ms,6602 kB/s
+3.144.191.4,443,true,ORD,North America,Chicago,237 ms,6399 kB/s
+54.200.244.93,443,true,SEA,North America,Seattle,212 ms,6113 kB/s
+3.15.147.151,2083,true,ORD,North America,Chicago,234 ms,5733 kB/s
+54.185.82.224,443,true,SEA,North America,Seattle,228 ms,5498 kB/s
+18.216.55.100,443,true,ORD,North America,Chicago,234 ms,2711 kB/s
+18.185.81.73,443,true,FRA,Europe,Frankfurt,198 ms,2071 kB/s
+18.185.86.127,8443,true,FRA,Europe,Frankfurt,193 ms,1711 kB/s
+13.43.173.97,8443,true,LHR,Europe,London,207 ms,1691 kB/s
+13.38.81.58,8443,true,CDG,Europe,Paris,198 ms,1641 kB/s
+13.38.53.164,8443,true,CDG,Europe,Paris,193 ms,1638 kB/s
+15.156.194.152,8443,true,YUL,North America,Montréal,265 ms,1615 kB/s
+52.212.168.5,8443,true,DUB,Europe,Dublin,214 ms,1516 kB/s
+18.130.249.35,2096,true,LHR,Europe,London,200 ms,1263 kB/s
+13.51.161.19,443,true,ARN,Europe,Stockholm,204 ms,1228 kB/s
+35.177.209.223,443,true,LHR,Europe,London,206 ms,1198 kB/s
+18.168.254.65,8443,true,LHR,Europe,London,204 ms,1196 kB/s
+13.53.48.6,8443,true,WAW,Europe,Warsaw,211 ms,1167 kB/s
+54.78.247.14,2053,true,DUB,Europe,Dublin,217 ms,1164 kB/s
+13.51.173.26,8443,true,WAW,Europe,Warsaw,205 ms,883 kB/s
+13.40.87.247,443,true,LHR,Europe,London,210 ms,761 kB/s
+52.74.101.26,443,true,SIN,Asia Pacific,Singapore,95 ms,684 kB/s
+18.167.208.181,443,true,HKG,Asia Pacific,Hong Kong,128 ms,642 kB/s
+54.249.173.119,443,true,NRT,Asia Pacific,Tokyo,75 ms,627 kB/s
+18.198.4.243,8443,true,FRA,Europe,Frankfurt,194 ms,612 kB/s
+13.40.87.247,8080,true,LHR,Europe,London,204 ms,496 kB/s
+13.51.48.84,2096,true,ARN,Europe,Stockholm,211 ms,444 kB/s
+13.60.42.73,8080,true,ARN,Europe,Stockholm,209 ms,412 kB/s
+54.201.19.60,443,true,SEA,North America,Seattle,224 ms,336 kB/s
+13.60.48.254,443,true,ARN,Europe,Stockholm,212 ms,326 kB/s
+99.83.209.185,443,true,IAD,North America,Ashburn,192 ms,278 kB/s
+13.36.230.17,8443,true,CDG,Europe,Paris,204 ms,230 kB/s
+18.132.164.98,443,true,LHR,Europe,London,205 ms,217 kB/s
+52.213.11.150,443,true,DUB,Europe,Dublin,219 ms,141 kB/s
+3.66.232.244,8443,true,FRA,Europe,Frankfurt,196 ms,134 kB/s
+18.197.7.176,443,true,FRA,Europe,Frankfurt,193 ms,80 kB/s
+18.169.172.216,443,true,LHR,Europe,London,208 ms,73 kB/s
+3.65.21.45,443,true,FRA,Europe,Frankfurt,196 ms,70 kB/s
+13.37.171.65,2053,true,CDG,Europe,Paris,195 ms,70 kB/s
+18.192.113.68,8443,true,FRA,Europe,Frankfurt,193 ms,61 kB/s
+18.184.55.249,443,true,FRA,Europe,Frankfurt,193 ms,54 kB/s
+13.51.132.60,443,true,OSL,Europe,Oslo,202 ms,54 kB/s
+13.50.13.141,2053,true,ARN,Europe,Stockholm,206 ms,51 kB/s
+13.43.138.247,8080,true,LHR,Europe,London,206 ms,51 kB/s
+52.211.193.42,443,true,CDG,Europe,Paris,210 ms,51 kB/s
+13.42.76.114,8443,true,LHR,Europe,London,201 ms,42 kB/s
+13.60.41.100,8080,true,ARN,Europe,Stockholm,206 ms,42 kB/s
+13.60.4.148,8443,true,ARN,Europe,Stockholm,208 ms,38 kB/s
+13.53.197.103,8080,true,ARN,Europe,Stockholm,211 ms,33 kB/s
+13.53.126.251,8443,true,ARN,Europe,Stockholm,208 ms,28 kB/s
+13.36.240.146,8443,true,CDG,Europe,Paris,197 ms,28 kB/s
+18.156.30.219,443,true,FRA,Europe,Frankfurt,189 ms,27 kB/s
+13.36.240.146,443,true,CDG,Europe,Paris,198 ms,22 kB/s
+13.49.18.114,443,true,ARN,Europe,Stockholm,212 ms,0 kB/s
+13.250.131.37,443,true,SIN,Asia Pacific,Singapore,94 ms,0 kB/s
+13.40.197.230,8080,true,LHR,Europe,London,211 ms,0 kB/s
+54.179.184.9,80,true,SIN,Asia Pacific,Singapore,100 ms,0 kB/s
+13.48.245.19,443,true,ARN,Europe,Stockholm,205 ms,0 kB/s

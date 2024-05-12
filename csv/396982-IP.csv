@@ -1,159 +1,159 @@
-IP地址	端口	TLS	数据中心	地区	城市	网络延迟	下载速度
-35.201.203.106	443	true	TPE	Asia Pacific	Taipei	85 ms	23465 kB/s
-34.82.188.91	443	true	SEA	North America	Seattle	204 ms	8213 kB/s
-35.198.190.148	443	true	FRA	Europe	Frankfurt	236 ms	7315 kB/s
-35.230.79.26	443	true	SEA	North America	Seattle	204 ms	7300 kB/s
-35.247.124.181	443	true	SEA	North America	Seattle	202 ms	7092 kB/s
-34.65.43.234	443	true	FRA	Europe	Frankfurt	260 ms	6910 kB/s
-34.65.6.206	443	true	FRA	Europe	Frankfurt	243 ms	6908 kB/s
-34.154.133.200	443	true	FRA	Europe	Frankfurt	241 ms	6866 kB/s
-34.154.172.31	443	true	FRA	Europe	Frankfurt	229 ms	6770 kB/s
-34.154.63.84	443	true	FRA	Europe	Frankfurt	245 ms	6687 kB/s
-35.197.23.75	443	true	SEA	North America	Seattle	207 ms	6683 kB/s
-34.116.225.173	443	true	FRA	Europe	Frankfurt	249 ms	6680 kB/s
-34.118.76.197	443	true	FRA	Europe	Frankfurt	245 ms	6639 kB/s
-34.159.44.188	443	true	FRA	Europe	Frankfurt	240 ms	6639 kB/s
-34.32.251.7	443	true	FRA	Europe	Frankfurt	251 ms	6503 kB/s
-34.118.97.51	443	true	FRA	Europe	Frankfurt	256 ms	6420 kB/s
-34.118.19.4	443	true	FRA	Europe	Frankfurt	248 ms	6351 kB/s
-34.34.0.127	443	true	FRA	Europe	Frankfurt	244 ms	6272 kB/s
-34.65.85.125	443	true	FRA	Europe	Frankfurt	253 ms	6262 kB/s
-34.107.6.24	443	true	FRA	Europe	Frankfurt	249 ms	6207 kB/s
-34.154.100.69	443	true	FRA	Europe	Frankfurt	235 ms	6116 kB/s
-34.34.27.147	443	true	FRA	Europe	Frankfurt	253 ms	6018 kB/s
-34.116.255.233	443	true	FRA	Europe	Frankfurt	265 ms	5971 kB/s
-34.89.171.21	443	true	FRA	Europe	Frankfurt	238 ms	5929 kB/s
-34.118.92.155	443	true	FRA	Europe	Frankfurt	269 ms	5836 kB/s
-34.65.196.206	443	true	FRA	Europe	Frankfurt	250 ms	5737 kB/s
-34.65.223.113	443	true	FRA	Europe	Frankfurt	234 ms	5713 kB/s
-34.65.7.63	443	true	FRA	Europe	Frankfurt	237 ms	5655 kB/s
-34.118.4.227	443	true	FRA	Europe	Frankfurt	263 ms	5361 kB/s
-34.41.252.92	443	true	ORD	North America	Chicago	258 ms	5359 kB/s
-34.159.221.177	443	true	FRA	Europe	Frankfurt	253 ms	5199 kB/s
-34.89.133.87	443	true	FRA	Europe	Frankfurt	258 ms	5193 kB/s
-34.116.154.215	443	true	FRA	Europe	Frankfurt	284 ms	5128 kB/s
-34.154.213.166	443	true	FRA	Europe	Frankfurt	254 ms	5104 kB/s
-34.154.249.231	443	true	FRA	Europe	Frankfurt	237 ms	5050 kB/s
-34.107.103.93	443	true	FRA	Europe	Frankfurt	253 ms	5045 kB/s
-34.116.157.215	443	true	FRA	Europe	Frankfurt	264 ms	5034 kB/s
-35.222.230.126	8443	true	ORD	North America	Chicago	248 ms	4976 kB/s
-34.65.150.119	443	true	FRA	Europe	Frankfurt	241 ms	4924 kB/s
-34.116.190.191	443	true	FRA	Europe	Frankfurt	262 ms	4805 kB/s
-34.154.230.148	443	true	FRA	Europe	Frankfurt	251 ms	4787 kB/s
-34.154.228.76	443	true	FRA	Europe	Frankfurt	241 ms	4760 kB/s
-34.154.170.13	443	true	FRA	Europe	Frankfurt	234 ms	4711 kB/s
-34.107.60.227	443	true	FRA	Europe	Frankfurt	234 ms	4558 kB/s
-34.116.223.193	443	true	FRA	Europe	Frankfurt	252 ms	4431 kB/s
-34.65.217.236	443	true	FRA	Europe	Frankfurt	249 ms	4318 kB/s
-35.222.230.126	2053	true	ORD	North America	Chicago	253 ms	4258 kB/s
-34.107.79.216	443	true	FRA	Europe	Frankfurt	237 ms	4255 kB/s
-34.116.207.140	443	true	FRA	Europe	Frankfurt	257 ms	4185 kB/s
-34.66.72.229	443	true	ORD	North America	Chicago	253 ms	4184 kB/s
-34.118.113.53	443	true	FRA	Europe	Frankfurt	258 ms	3996 kB/s
-34.116.128.120	443	true	FRA	Europe	Frankfurt	255 ms	3871 kB/s
-34.116.131.175	443	true	FRA	Europe	Frankfurt	248 ms	3490 kB/s
-34.32.182.114	443	true	FRA	Europe	Frankfurt	254 ms	2035 kB/s
-34.159.84.211	443	true	FRA	Europe	Frankfurt	244 ms	2002 kB/s
-34.159.30.32	443	true	FRA	Europe	Frankfurt	241 ms	1815 kB/s
-34.34.27.117	443	true	CDG	Europe	Paris	256 ms	1796 kB/s
-34.159.54.249	443	true	FRA	Europe	Frankfurt	248 ms	1715 kB/s
-34.159.146.212	443	true	FRA	Europe	Frankfurt	256 ms	1670 kB/s
-34.32.215.26	443	true	FRA	Europe	Frankfurt	244 ms	1632 kB/s
-34.141.16.75	443	true	FRA	Europe	Frankfurt	251 ms	1609 kB/s
-34.118.45.21	443	true	FRA	Europe	Frankfurt	248 ms	1430 kB/s
-34.154.3.175	443	true	FRA	Europe	Frankfurt	247 ms	1360 kB/s
-34.154.10.75	443	true	FRA	Europe	Frankfurt	251 ms	1330 kB/s
-34.65.112.159	443	true	FRA	Europe	Frankfurt	263 ms	1279 kB/s
-34.90.123.5	443	true	FRA	Europe	Frankfurt	248 ms	1193 kB/s
-34.154.157.176	443	true	FRA	Europe	Frankfurt	236 ms	1187 kB/s
-34.65.221.128	443	true	FRA	Europe	Frankfurt	244 ms	1184 kB/s
-34.65.73.241	443	true	FRA	Europe	Frankfurt	238 ms	1178 kB/s
-34.32.207.31	443	true	FRA	Europe	Frankfurt	246 ms	1177 kB/s
-34.154.103.81	443	true	MUC	Europe	Munich	249 ms	1150 kB/s
-34.154.59.81	443	true	FRA	Europe	Frankfurt	252 ms	1143 kB/s
-34.154.189.46	443	true	FRA	Europe	Frankfurt	254 ms	1028 kB/s
-34.116.233.114	443	true	FRA	Europe	Frankfurt	259 ms	1014 kB/s
-34.116.215.27	443	true	FRA	Europe	Frankfurt	257 ms	1007 kB/s
-34.90.148.40	443	true	FRA	Europe	Frankfurt	236 ms	988 kB/s
-34.118.91.186	443	true	FRA	Europe	Frankfurt	258 ms	975 kB/s
-34.65.115.78	443	true	FRA	Europe	Frankfurt	250 ms	945 kB/s
-34.116.202.71	443	true	FRA	Europe	Frankfurt	258 ms	944 kB/s
-34.154.157.56	443	true	FRA	Europe	Frankfurt	248 ms	931 kB/s
-34.154.48.195	443	true	FRA	Europe	Frankfurt	247 ms	905 kB/s
-34.32.247.251	443	true	FRA	Europe	Frankfurt	249 ms	894 kB/s
-34.65.202.210	443	true	FRA	Europe	Frankfurt	260 ms	886 kB/s
-34.65.167.153	443	true	FRA	Europe	Frankfurt	250 ms	880 kB/s
-34.32.206.100	443	true	FRA	Europe	Frankfurt	250 ms	876 kB/s
-34.154.189.30	443	true	FRA	Europe	Frankfurt	259 ms	870 kB/s
-35.229.161.32	443	true	TPE	Asia Pacific	Taipei	80 ms	863 kB/s
-34.154.109.8	443	true	FRA	Europe	Frankfurt	236 ms	848 kB/s
-34.65.133.57	443	true	FRA	Europe	Frankfurt	245 ms	843 kB/s
-34.34.39.57	443	true	FRA	Europe	Frankfurt	255 ms	841 kB/s
-34.91.228.224	443	true	FRA	Europe	Frankfurt	254 ms	835 kB/s
-34.154.240.154	443	true	FRA	Europe	Frankfurt	250 ms	807 kB/s
-34.118.75.249	443	true	FRA	Europe	Frankfurt	252 ms	802 kB/s
-34.118.112.163	443	true	FRA	Europe	Frankfurt	257 ms	787 kB/s
-34.118.61.152	443	true	FRA	Europe	Frankfurt	259 ms	774 kB/s
-34.118.16.79	443	true	FRA	Europe	Frankfurt	262 ms	728 kB/s
-34.154.106.62	443	true	FRA	Europe	Frankfurt	244 ms	728 kB/s
-34.159.20.24	443	true	CDG	Europe	Paris	243 ms	722 kB/s
-34.116.253.136	443	true	FRA	Europe	Frankfurt	247 ms	713 kB/s
-35.204.248.160	443	true	FRA	Europe	Frankfurt	265 ms	710 kB/s
-34.141.194.63	443	true	FRA	Europe	Frankfurt	257 ms	702 kB/s
-34.32.159.13	443	true	FRA	Europe	Frankfurt	252 ms	691 kB/s
-34.90.76.0	443	true	FRA	Europe	Frankfurt	255 ms	684 kB/s
-34.116.157.236	443	true	FRA	Europe	Frankfurt	265 ms	681 kB/s
-34.118.21.204	443	true	FRA	Europe	Frankfurt	264 ms	676 kB/s
-34.118.68.152	443	true	FRA	Europe	Frankfurt	246 ms	673 kB/s
-34.90.108.106	443	true	FRA	Europe	Frankfurt	256 ms	663 kB/s
-34.116.149.184	443	true	FRA	Europe	Frankfurt	259 ms	659 kB/s
-34.118.6.177	443	true	FRA	Europe	Frankfurt	263 ms	652 kB/s
-34.154.196.80	443	true	FRA	Europe	Frankfurt	246 ms	646 kB/s
-34.118.101.112	443	true	FRA	Europe	Frankfurt	265 ms	611 kB/s
-34.82.76.253	443	true	SEA	North America	Seattle	204 ms	569 kB/s
-35.246.222.80	443	true	FRA	Europe	Frankfurt	238 ms	556 kB/s
-34.107.12.181	443	true	FRA	Europe	Frankfurt	247 ms	550 kB/s
-34.116.248.5	443	true	FRA	Europe	Frankfurt	251 ms	547 kB/s
-34.32.190.26	443	true	FRA	Europe	Frankfurt	255 ms	531 kB/s
-34.154.97.106	443	true	FRA	Europe	Frankfurt	264 ms	520 kB/s
-34.65.100.6	443	true	FRA	Europe	Frankfurt	251 ms	515 kB/s
-34.65.92.255	443	true	FRA	Europe	Frankfurt	262 ms	498 kB/s
-34.118.20.188	443	true	FRA	Europe	Frankfurt	246 ms	486 kB/s
-34.118.114.236	443	true	FRA	Europe	Frankfurt	243 ms	486 kB/s
-34.107.56.108	443	true	MUC	Europe	Munich	249 ms	432 kB/s
-34.141.21.177	443	true	FRA	Europe	Frankfurt	249 ms	425 kB/s
-35.204.187.204	443	true	FRA	Europe	Frankfurt	245 ms	387 kB/s
-34.91.44.41	443	true	FRA	Europe	Frankfurt	245 ms	376 kB/s
-34.116.137.135	443	true	FRA	Europe	Frankfurt	260 ms	368 kB/s
-34.89.145.108	443	true	FRA	Europe	Frankfurt	247 ms	352 kB/s
-34.32.174.17	443	true	FRA	Europe	Frankfurt	258 ms	348 kB/s
-34.91.211.239	443	true	FRA	Europe	Frankfurt	263 ms	332 kB/s
-34.90.82.108	443	true	FRA	Europe	Frankfurt	263 ms	323 kB/s
-34.90.2.209	443	true	FRA	Europe	Frankfurt	256 ms	278 kB/s
-34.116.176.52	443	true	FRA	Europe	Frankfurt	259 ms	214 kB/s
-34.154.178.111	443	true	FRA	Europe	Frankfurt	241 ms	192 kB/s
-34.141.181.28	443	true	FRA	Europe	Frankfurt	262 ms	176 kB/s
-34.118.112.88	443	true	FRA	Europe	Frankfurt	249 ms	167 kB/s
-34.154.4.40	443	true	FRA	Europe	Frankfurt	254 ms	166 kB/s
-34.118.17.165	443	true	FRA	Europe	Frankfurt	275 ms	163 kB/s
-34.118.87.93	443	true	FRA	Europe	Frankfurt	261 ms	137 kB/s
-34.116.148.173	443	true	CDG	Europe	Paris	271 ms	109 kB/s
-34.90.108.249	443	true	FRA	Europe	Frankfurt	233 ms	73 kB/s
-34.116.141.48	443	true	CDG	Europe	Paris	266 ms	13 kB/s
-34.22.100.72	443	true	ICN	Asia Pacific	Seoul	214 ms	0 kB/s
-34.141.27.54	443	true	FRA	Europe	Frankfurt	238 ms	0 kB/s
-34.90.79.140	443	true	CDG	Europe	Paris	257 ms	0 kB/s
-34.90.191.52	443	true	FRA	Europe	Frankfurt	236 ms	0 kB/s
-34.116.221.100	443	true	FRA	Europe	Frankfurt	259 ms	0 kB/s
-34.159.100.136	443	true	FRA	Europe	Frankfurt	235 ms	0 kB/s
-35.198.128.132	443	true	FRA	Europe	Frankfurt	247 ms	0 kB/s
-34.118.0.250	443	true	FRA	Europe	Frankfurt	267 ms	0 kB/s
-34.118.64.206	443	true	FRA	Europe	Frankfurt	253 ms	0 kB/s
-34.116.231.238	443	true	FRA	Europe	Frankfurt	241 ms	0 kB/s
-34.154.151.69	443	true	FRA	Europe	Frankfurt	247 ms	0 kB/s
-34.118.118.64	443	true	FRA	Europe	Frankfurt	246 ms	0 kB/s
-35.246.156.11	443	true	FRA	Europe	Frankfurt	250 ms	0 kB/s
-34.65.157.21	443	true	FRA	Europe	Frankfurt	235 ms	0 kB/s
-34.116.165.236	443	true	FRA	Europe	Frankfurt	258 ms	0 kB/s
-34.154.209.179	443	true	FRA	Europe	Frankfurt	239 ms	0 kB/s
-34.159.29.188	443	true	MUC	Europe	Munich	239 ms	0 kB/s
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+35.201.203.106,443,true,TPE,Asia Pacific,Taipei,85 ms,23465 kB/s
+34.82.188.91,443,true,SEA,North America,Seattle,204 ms,8213 kB/s
+35.198.190.148,443,true,FRA,Europe,Frankfurt,236 ms,7315 kB/s
+35.230.79.26,443,true,SEA,North America,Seattle,204 ms,7300 kB/s
+35.247.124.181,443,true,SEA,North America,Seattle,202 ms,7092 kB/s
+34.65.43.234,443,true,FRA,Europe,Frankfurt,260 ms,6910 kB/s
+34.65.6.206,443,true,FRA,Europe,Frankfurt,243 ms,6908 kB/s
+34.154.133.200,443,true,FRA,Europe,Frankfurt,241 ms,6866 kB/s
+34.154.172.31,443,true,FRA,Europe,Frankfurt,229 ms,6770 kB/s
+34.154.63.84,443,true,FRA,Europe,Frankfurt,245 ms,6687 kB/s
+35.197.23.75,443,true,SEA,North America,Seattle,207 ms,6683 kB/s
+34.116.225.173,443,true,FRA,Europe,Frankfurt,249 ms,6680 kB/s
+34.118.76.197,443,true,FRA,Europe,Frankfurt,245 ms,6639 kB/s
+34.159.44.188,443,true,FRA,Europe,Frankfurt,240 ms,6639 kB/s
+34.32.251.7,443,true,FRA,Europe,Frankfurt,251 ms,6503 kB/s
+34.118.97.51,443,true,FRA,Europe,Frankfurt,256 ms,6420 kB/s
+34.118.19.4,443,true,FRA,Europe,Frankfurt,248 ms,6351 kB/s
+34.34.0.127,443,true,FRA,Europe,Frankfurt,244 ms,6272 kB/s
+34.65.85.125,443,true,FRA,Europe,Frankfurt,253 ms,6262 kB/s
+34.107.6.24,443,true,FRA,Europe,Frankfurt,249 ms,6207 kB/s
+34.154.100.69,443,true,FRA,Europe,Frankfurt,235 ms,6116 kB/s
+34.34.27.147,443,true,FRA,Europe,Frankfurt,253 ms,6018 kB/s
+34.116.255.233,443,true,FRA,Europe,Frankfurt,265 ms,5971 kB/s
+34.89.171.21,443,true,FRA,Europe,Frankfurt,238 ms,5929 kB/s
+34.118.92.155,443,true,FRA,Europe,Frankfurt,269 ms,5836 kB/s
+34.65.196.206,443,true,FRA,Europe,Frankfurt,250 ms,5737 kB/s
+34.65.223.113,443,true,FRA,Europe,Frankfurt,234 ms,5713 kB/s
+34.65.7.63,443,true,FRA,Europe,Frankfurt,237 ms,5655 kB/s
+34.118.4.227,443,true,FRA,Europe,Frankfurt,263 ms,5361 kB/s
+34.41.252.92,443,true,ORD,North America,Chicago,258 ms,5359 kB/s
+34.159.221.177,443,true,FRA,Europe,Frankfurt,253 ms,5199 kB/s
+34.89.133.87,443,true,FRA,Europe,Frankfurt,258 ms,5193 kB/s
+34.116.154.215,443,true,FRA,Europe,Frankfurt,284 ms,5128 kB/s
+34.154.213.166,443,true,FRA,Europe,Frankfurt,254 ms,5104 kB/s
+34.154.249.231,443,true,FRA,Europe,Frankfurt,237 ms,5050 kB/s
+34.107.103.93,443,true,FRA,Europe,Frankfurt,253 ms,5045 kB/s
+34.116.157.215,443,true,FRA,Europe,Frankfurt,264 ms,5034 kB/s
+35.222.230.126,8443,true,ORD,North America,Chicago,248 ms,4976 kB/s
+34.65.150.119,443,true,FRA,Europe,Frankfurt,241 ms,4924 kB/s
+34.116.190.191,443,true,FRA,Europe,Frankfurt,262 ms,4805 kB/s
+34.154.230.148,443,true,FRA,Europe,Frankfurt,251 ms,4787 kB/s
+34.154.228.76,443,true,FRA,Europe,Frankfurt,241 ms,4760 kB/s
+34.154.170.13,443,true,FRA,Europe,Frankfurt,234 ms,4711 kB/s
+34.107.60.227,443,true,FRA,Europe,Frankfurt,234 ms,4558 kB/s
+34.116.223.193,443,true,FRA,Europe,Frankfurt,252 ms,4431 kB/s
+34.65.217.236,443,true,FRA,Europe,Frankfurt,249 ms,4318 kB/s
+35.222.230.126,2053,true,ORD,North America,Chicago,253 ms,4258 kB/s
+34.107.79.216,443,true,FRA,Europe,Frankfurt,237 ms,4255 kB/s
+34.116.207.140,443,true,FRA,Europe,Frankfurt,257 ms,4185 kB/s
+34.66.72.229,443,true,ORD,North America,Chicago,253 ms,4184 kB/s
+34.118.113.53,443,true,FRA,Europe,Frankfurt,258 ms,3996 kB/s
+34.116.128.120,443,true,FRA,Europe,Frankfurt,255 ms,3871 kB/s
+34.116.131.175,443,true,FRA,Europe,Frankfurt,248 ms,3490 kB/s
+34.32.182.114,443,true,FRA,Europe,Frankfurt,254 ms,2035 kB/s
+34.159.84.211,443,true,FRA,Europe,Frankfurt,244 ms,2002 kB/s
+34.159.30.32,443,true,FRA,Europe,Frankfurt,241 ms,1815 kB/s
+34.34.27.117,443,true,CDG,Europe,Paris,256 ms,1796 kB/s
+34.159.54.249,443,true,FRA,Europe,Frankfurt,248 ms,1715 kB/s
+34.159.146.212,443,true,FRA,Europe,Frankfurt,256 ms,1670 kB/s
+34.32.215.26,443,true,FRA,Europe,Frankfurt,244 ms,1632 kB/s
+34.141.16.75,443,true,FRA,Europe,Frankfurt,251 ms,1609 kB/s
+34.118.45.21,443,true,FRA,Europe,Frankfurt,248 ms,1430 kB/s
+34.154.3.175,443,true,FRA,Europe,Frankfurt,247 ms,1360 kB/s
+34.154.10.75,443,true,FRA,Europe,Frankfurt,251 ms,1330 kB/s
+34.65.112.159,443,true,FRA,Europe,Frankfurt,263 ms,1279 kB/s
+34.90.123.5,443,true,FRA,Europe,Frankfurt,248 ms,1193 kB/s
+34.154.157.176,443,true,FRA,Europe,Frankfurt,236 ms,1187 kB/s
+34.65.221.128,443,true,FRA,Europe,Frankfurt,244 ms,1184 kB/s
+34.65.73.241,443,true,FRA,Europe,Frankfurt,238 ms,1178 kB/s
+34.32.207.31,443,true,FRA,Europe,Frankfurt,246 ms,1177 kB/s
+34.154.103.81,443,true,MUC,Europe,Munich,249 ms,1150 kB/s
+34.154.59.81,443,true,FRA,Europe,Frankfurt,252 ms,1143 kB/s
+34.154.189.46,443,true,FRA,Europe,Frankfurt,254 ms,1028 kB/s
+34.116.233.114,443,true,FRA,Europe,Frankfurt,259 ms,1014 kB/s
+34.116.215.27,443,true,FRA,Europe,Frankfurt,257 ms,1007 kB/s
+34.90.148.40,443,true,FRA,Europe,Frankfurt,236 ms,988 kB/s
+34.118.91.186,443,true,FRA,Europe,Frankfurt,258 ms,975 kB/s
+34.65.115.78,443,true,FRA,Europe,Frankfurt,250 ms,945 kB/s
+34.116.202.71,443,true,FRA,Europe,Frankfurt,258 ms,944 kB/s
+34.154.157.56,443,true,FRA,Europe,Frankfurt,248 ms,931 kB/s
+34.154.48.195,443,true,FRA,Europe,Frankfurt,247 ms,905 kB/s
+34.32.247.251,443,true,FRA,Europe,Frankfurt,249 ms,894 kB/s
+34.65.202.210,443,true,FRA,Europe,Frankfurt,260 ms,886 kB/s
+34.65.167.153,443,true,FRA,Europe,Frankfurt,250 ms,880 kB/s
+34.32.206.100,443,true,FRA,Europe,Frankfurt,250 ms,876 kB/s
+34.154.189.30,443,true,FRA,Europe,Frankfurt,259 ms,870 kB/s
+35.229.161.32,443,true,TPE,Asia Pacific,Taipei,80 ms,863 kB/s
+34.154.109.8,443,true,FRA,Europe,Frankfurt,236 ms,848 kB/s
+34.65.133.57,443,true,FRA,Europe,Frankfurt,245 ms,843 kB/s
+34.34.39.57,443,true,FRA,Europe,Frankfurt,255 ms,841 kB/s
+34.91.228.224,443,true,FRA,Europe,Frankfurt,254 ms,835 kB/s
+34.154.240.154,443,true,FRA,Europe,Frankfurt,250 ms,807 kB/s
+34.118.75.249,443,true,FRA,Europe,Frankfurt,252 ms,802 kB/s
+34.118.112.163,443,true,FRA,Europe,Frankfurt,257 ms,787 kB/s
+34.118.61.152,443,true,FRA,Europe,Frankfurt,259 ms,774 kB/s
+34.118.16.79,443,true,FRA,Europe,Frankfurt,262 ms,728 kB/s
+34.154.106.62,443,true,FRA,Europe,Frankfurt,244 ms,728 kB/s
+34.159.20.24,443,true,CDG,Europe,Paris,243 ms,722 kB/s
+34.116.253.136,443,true,FRA,Europe,Frankfurt,247 ms,713 kB/s
+35.204.248.160,443,true,FRA,Europe,Frankfurt,265 ms,710 kB/s
+34.141.194.63,443,true,FRA,Europe,Frankfurt,257 ms,702 kB/s
+34.32.159.13,443,true,FRA,Europe,Frankfurt,252 ms,691 kB/s
+34.90.76.0,443,true,FRA,Europe,Frankfurt,255 ms,684 kB/s
+34.116.157.236,443,true,FRA,Europe,Frankfurt,265 ms,681 kB/s
+34.118.21.204,443,true,FRA,Europe,Frankfurt,264 ms,676 kB/s
+34.118.68.152,443,true,FRA,Europe,Frankfurt,246 ms,673 kB/s
+34.90.108.106,443,true,FRA,Europe,Frankfurt,256 ms,663 kB/s
+34.116.149.184,443,true,FRA,Europe,Frankfurt,259 ms,659 kB/s
+34.118.6.177,443,true,FRA,Europe,Frankfurt,263 ms,652 kB/s
+34.154.196.80,443,true,FRA,Europe,Frankfurt,246 ms,646 kB/s
+34.118.101.112,443,true,FRA,Europe,Frankfurt,265 ms,611 kB/s
+34.82.76.253,443,true,SEA,North America,Seattle,204 ms,569 kB/s
+35.246.222.80,443,true,FRA,Europe,Frankfurt,238 ms,556 kB/s
+34.107.12.181,443,true,FRA,Europe,Frankfurt,247 ms,550 kB/s
+34.116.248.5,443,true,FRA,Europe,Frankfurt,251 ms,547 kB/s
+34.32.190.26,443,true,FRA,Europe,Frankfurt,255 ms,531 kB/s
+34.154.97.106,443,true,FRA,Europe,Frankfurt,264 ms,520 kB/s
+34.65.100.6,443,true,FRA,Europe,Frankfurt,251 ms,515 kB/s
+34.65.92.255,443,true,FRA,Europe,Frankfurt,262 ms,498 kB/s
+34.118.20.188,443,true,FRA,Europe,Frankfurt,246 ms,486 kB/s
+34.118.114.236,443,true,FRA,Europe,Frankfurt,243 ms,486 kB/s
+34.107.56.108,443,true,MUC,Europe,Munich,249 ms,432 kB/s
+34.141.21.177,443,true,FRA,Europe,Frankfurt,249 ms,425 kB/s
+35.204.187.204,443,true,FRA,Europe,Frankfurt,245 ms,387 kB/s
+34.91.44.41,443,true,FRA,Europe,Frankfurt,245 ms,376 kB/s
+34.116.137.135,443,true,FRA,Europe,Frankfurt,260 ms,368 kB/s
+34.89.145.108,443,true,FRA,Europe,Frankfurt,247 ms,352 kB/s
+34.32.174.17,443,true,FRA,Europe,Frankfurt,258 ms,348 kB/s
+34.91.211.239,443,true,FRA,Europe,Frankfurt,263 ms,332 kB/s
+34.90.82.108,443,true,FRA,Europe,Frankfurt,263 ms,323 kB/s
+34.90.2.209,443,true,FRA,Europe,Frankfurt,256 ms,278 kB/s
+34.116.176.52,443,true,FRA,Europe,Frankfurt,259 ms,214 kB/s
+34.154.178.111,443,true,FRA,Europe,Frankfurt,241 ms,192 kB/s
+34.141.181.28,443,true,FRA,Europe,Frankfurt,262 ms,176 kB/s
+34.118.112.88,443,true,FRA,Europe,Frankfurt,249 ms,167 kB/s
+34.154.4.40,443,true,FRA,Europe,Frankfurt,254 ms,166 kB/s
+34.118.17.165,443,true,FRA,Europe,Frankfurt,275 ms,163 kB/s
+34.118.87.93,443,true,FRA,Europe,Frankfurt,261 ms,137 kB/s
+34.116.148.173,443,true,CDG,Europe,Paris,271 ms,109 kB/s
+34.90.108.249,443,true,FRA,Europe,Frankfurt,233 ms,73 kB/s
+34.116.141.48,443,true,CDG,Europe,Paris,266 ms,13 kB/s
+34.22.100.72,443,true,ICN,Asia Pacific,Seoul,214 ms,0 kB/s
+34.141.27.54,443,true,FRA,Europe,Frankfurt,238 ms,0 kB/s
+34.90.79.140,443,true,CDG,Europe,Paris,257 ms,0 kB/s
+34.90.191.52,443,true,FRA,Europe,Frankfurt,236 ms,0 kB/s
+34.116.221.100,443,true,FRA,Europe,Frankfurt,259 ms,0 kB/s
+34.159.100.136,443,true,FRA,Europe,Frankfurt,235 ms,0 kB/s
+35.198.128.132,443,true,FRA,Europe,Frankfurt,247 ms,0 kB/s
+34.118.0.250,443,true,FRA,Europe,Frankfurt,267 ms,0 kB/s
+34.118.64.206,443,true,FRA,Europe,Frankfurt,253 ms,0 kB/s
+34.116.231.238,443,true,FRA,Europe,Frankfurt,241 ms,0 kB/s
+34.154.151.69,443,true,FRA,Europe,Frankfurt,247 ms,0 kB/s
+34.118.118.64,443,true,FRA,Europe,Frankfurt,246 ms,0 kB/s
+35.246.156.11,443,true,FRA,Europe,Frankfurt,250 ms,0 kB/s
+34.65.157.21,443,true,FRA,Europe,Frankfurt,235 ms,0 kB/s
+34.116.165.236,443,true,FRA,Europe,Frankfurt,258 ms,0 kB/s
+34.154.209.179,443,true,FRA,Europe,Frankfurt,239 ms,0 kB/s
+34.159.29.188,443,true,MUC,Europe,Munich,239 ms,0 kB/s

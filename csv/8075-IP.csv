@@ -1,21 +1,19 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-20.168.54.251,443,true,LAX,North America,Los Angeles,232 ms,5100 kB/s
-172.190.150.25,8443,true,IAD,North America,Ashburn,318 ms,4072 kB/s
-51.107.13.85,8443,true,MXP,Europe,Milan,315 ms,3883 kB/s
-138.91.123.230,34237,true,IAD,North America,Ashburn,319 ms,3704 kB/s
-20.185.28.234,44056,true,IAD,North America,Ashburn,342 ms,3527 kB/s
-20.108.51.255,443,true,LHR,Europe,London,308 ms,3455 kB/s
-4.255.56.137,443,true,IAD,North America,Ashburn,320 ms,3330 kB/s
-4.255.56.138,443,true,IAD,North America,Ashburn,327 ms,3042 kB/s
-20.245.7.79,443,true,SJC,North America,San Jose,195 ms,2682 kB/s
-20.151.142.151,8443,true,YYZ,North America,Toronto,312 ms,2281 kB/s
-51.120.240.115,8080,true,CPH,Europe,Copenhagen,307 ms,1930 kB/s
-20.240.254.247,8443,true,ARN,Europe,Stockholm,339 ms,1718 kB/s
-51.120.240.115,2087,true,CPH,Europe,Copenhagen,299 ms,1605 kB/s
-20.251.168.45,2087,true,CPH,Europe,Copenhagen,337 ms,1267 kB/s
-20.220.204.217,443,true,YYZ,North America,Toronto,331 ms,1247 kB/s
-172.208.36.45,80,true,IAD,North America,Ashburn,332 ms,1195 kB/s
-172.208.36.45,443,true,IAD,North America,Ashburn,339 ms,980 kB/s
-20.62.202.159,443,true,IAD,North America,Ashburn,320 ms,871 kB/s
-52.151.81.2,2083,true,LHR,Europe,London,325 ms,803 kB/s
-20.83.149.174,443,true,IAD,North America,Ashburn,334 ms,0 kB/s
+4.255.56.138,443,true,IAD,North America,Ashburn,274 ms,5279 kB/s
+20.168.54.251,443,true,LAX,North America,Los Angeles,224 ms,4786 kB/s
+20.185.28.234,44056,true,IAD,North America,Ashburn,246 ms,4533 kB/s
+4.255.56.137,443,true,IAD,North America,Ashburn,270 ms,4477 kB/s
+51.107.13.85,8443,true,MXP,Europe,Milan,271 ms,3897 kB/s
+20.108.51.255,443,true,LHR,Europe,London,276 ms,3785 kB/s
+138.91.123.230,34237,true,IAD,North America,Ashburn,282 ms,3659 kB/s
+52.151.81.2,2083,true,LHR,Europe,London,282 ms,3474 kB/s
+20.151.142.151,8443,true,YYZ,North America,Toronto,274 ms,3269 kB/s
+172.190.150.25,8443,true,IAD,North America,Ashburn,272 ms,3075 kB/s
+20.62.202.159,443,true,IAD,North America,Ashburn,272 ms,2172 kB/s
+20.170.41.153,443,true,FRA,Europe,Frankfurt,283 ms,1923 kB/s
+20.251.168.45,2087,true,CPH,Europe,Copenhagen,312 ms,1497 kB/s
+51.120.240.115,8080,true,CPH,Europe,Copenhagen,294 ms,1491 kB/s
+20.240.254.247,8443,true,ARN,Europe,Stockholm,349 ms,1478 kB/s
+52.137.60.154,443,true,AMS,Europe,Amsterdam,274 ms,633 kB/s
+51.120.240.115,2087,true,CPH,Europe,Copenhagen,299 ms,374 kB/s
+20.245.7.79,443,true,SJC,North America,San Jose,189 ms,0 kB/s
