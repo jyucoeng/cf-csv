@@ -1,21 +1,21 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-20.245.7.79,443,true,SJC,North America,San Jose,196 ms,5135 kB/s
-4.255.56.137,443,true,IAD,North America,Ashburn,300 ms,4942 kB/s
-20.168.54.251,443,true,LAX,North America,Los Angeles,227 ms,4645 kB/s
-20.220.204.217,443,true,YYZ,North America,Toronto,247 ms,4181 kB/s
-20.185.28.234,44056,true,IAD,North America,Ashburn,253 ms,3839 kB/s
-51.107.13.85,8443,true,MXP,Europe,Milan,310 ms,3694 kB/s
-51.120.240.115,8080,true,CPH,Europe,Copenhagen,293 ms,3270 kB/s
-4.255.56.138,443,true,IAD,North America,Ashburn,270 ms,3190 kB/s
-20.251.168.45,2087,true,CPH,Europe,Copenhagen,314 ms,2988 kB/s
-172.190.150.25,8443,true,IAD,North America,Ashburn,281 ms,2799 kB/s
-20.83.149.174,443,true,IAD,North America,Ashburn,269 ms,2575 kB/s
-20.240.254.247,8443,true,ARN,Europe,Stockholm,353 ms,1906 kB/s
-138.91.123.230,34237,true,IAD,North America,Ashburn,268 ms,1738 kB/s
-51.120.240.115,2087,true,CPH,Europe,Copenhagen,313 ms,1572 kB/s
-20.62.202.159,443,true,IAD,North America,Ashburn,296 ms,1571 kB/s
-20.170.41.153,443,true,FRA,Europe,Frankfurt,271 ms,1391 kB/s
-20.108.51.255,443,true,LHR,Europe,London,281 ms,1068 kB/s
-52.151.81.2,2083,true,LHR,Europe,London,279 ms,774 kB/s
-52.137.60.154,443,true,AMS,Europe,Amsterdam,301 ms,64 kB/s
-20.151.142.151,8443,true,YYZ,North America,Toronto,279 ms,0 kB/s
+4.255.56.138,443,true,IAD,North America,Ashburn,296 ms,6301 kB/s
+4.255.56.137,443,true,IAD,North America,Ashburn,278 ms,6237 kB/s
+138.91.123.230,34237,true,IAD,North America,Ashburn,297 ms,5125 kB/s
+51.107.13.85,8443,true,MXP,Europe,Milan,273 ms,4888 kB/s
+20.168.54.251,443,true,LAX,North America,Los Angeles,230 ms,4772 kB/s
+20.251.168.45,2087,true,CPH,Europe,Copenhagen,318 ms,4210 kB/s
+20.185.28.234,44056,true,IAD,North America,Ashburn,233 ms,3993 kB/s
+20.62.202.159,443,true,IAD,North America,Ashburn,300 ms,3682 kB/s
+20.220.204.217,443,true,YYZ,North America,Toronto,239 ms,2278 kB/s
+51.120.240.115,2087,true,CPH,Europe,Copenhagen,308 ms,2223 kB/s
+20.170.41.153,443,true,FRA,Europe,Frankfurt,280 ms,2204 kB/s
+20.151.142.151,8443,true,YYZ,North America,Toronto,305 ms,1859 kB/s
+51.120.240.115,8080,true,CPH,Europe,Copenhagen,310 ms,1593 kB/s
+172.190.150.25,8443,true,IAD,North America,Ashburn,291 ms,1416 kB/s
+20.240.254.247,8443,true,ARN,Europe,Stockholm,320 ms,1388 kB/s
+52.151.81.2,2083,true,LHR,Europe,London,282 ms,1380 kB/s
+20.83.149.174,443,true,IAD,North America,Ashburn,275 ms,1355 kB/s
+20.108.51.255,443,true,LHR,Europe,London,302 ms,480 kB/s
+52.137.60.154,443,true,AMS,Europe,Amsterdam,283 ms,332 kB/s
+20.245.7.79,443,true,SJC,North America,San Jose,174 ms,0 kB/s
