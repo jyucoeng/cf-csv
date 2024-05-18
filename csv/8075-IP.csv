@@ -1,18 +1,16 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-20.168.54.251,443,true,LAX,North America,Los Angeles,236 ms,5090 kB/s
-4.255.56.137,443,true,IAD,North America,Ashburn,277 ms,4363 kB/s
-138.91.123.230,34237,true,IAD,North America,Ashburn,272 ms,4196 kB/s
-51.107.13.85,8443,true,MXP,Europe,Milan,276 ms,3669 kB/s
-20.151.142.151,8443,true,YYZ,North America,Toronto,292 ms,3332 kB/s
-51.120.240.115,8080,true,CPH,Europe,Copenhagen,299 ms,3145 kB/s
-4.255.56.138,443,true,IAD,North America,Ashburn,278 ms,3022 kB/s
-20.108.51.255,443,true,LHR,Europe,London,290 ms,2329 kB/s
-20.185.28.234,44056,true,IAD,North America,Ashburn,276 ms,2328 kB/s
-20.62.202.159,443,true,IAD,North America,Ashburn,276 ms,2047 kB/s
-172.190.150.25,8443,true,IAD,North America,Ashburn,282 ms,1826 kB/s
-51.120.240.115,2087,true,CPH,Europe,Copenhagen,307 ms,1350 kB/s
-20.170.41.153,443,true,FRA,Europe,Frankfurt,284 ms,1286 kB/s
-52.151.81.2,2083,true,LHR,Europe,London,288 ms,748 kB/s
-52.137.60.154,443,true,AMS,Europe,Amsterdam,292 ms,242 kB/s
-20.251.168.45,2087,true,CPH,Europe,Copenhagen,376 ms,125 kB/s
-20.240.254.247,8443,true,ARN,Europe,Stockholm,367 ms,5 kB/s
+20.168.54.251,443,true,LAX,North America,Los Angeles,230 ms,6741 kB/s
+20.220.204.217,443,true,YYZ,North America,Toronto,249 ms,5192 kB/s
+4.255.56.137,443,true,IAD,North America,Ashburn,283 ms,4997 kB/s
+20.108.51.255,443,true,LHR,Europe,London,285 ms,3252 kB/s
+4.255.56.138,443,true,IAD,North America,Ashburn,297 ms,3225 kB/s
+20.151.142.151,8443,true,YYZ,North America,Toronto,273 ms,2956 kB/s
+20.240.254.247,8443,true,ARN,Europe,Stockholm,340 ms,2812 kB/s
+172.190.150.25,8443,true,IAD,North America,Ashburn,272 ms,2236 kB/s
+51.120.240.115,2087,true,CPH,Europe,Copenhagen,297 ms,1823 kB/s
+52.151.81.2,2083,true,LHR,Europe,London,281 ms,1247 kB/s
+20.62.202.159,443,true,IAD,North America,Ashburn,310 ms,349 kB/s
+20.251.168.45,2087,true,CPH,Europe,Copenhagen,340 ms,217 kB/s
+51.120.240.115,8080,true,CPH,Europe,Copenhagen,300 ms,27 kB/s
+52.137.60.154,443,true,AMS,Europe,Amsterdam,282 ms,0 kB/s
+51.107.13.85,8443,true,MXP,Europe,Milan,271 ms,0 kB/s
