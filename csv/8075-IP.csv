@@ -1,15 +1,15 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-4.255.56.138,443,true,IAD,North America,Ashburn,283 ms,5110 kB/s
-4.255.56.137,443,true,IAD,North America,Ashburn,287 ms,4901 kB/s
-172.190.150.25,8443,true,IAD,North America,Ashburn,286 ms,4356 kB/s
-51.107.13.85,8443,true,MXP,Europe,Milan,309 ms,4236 kB/s
-20.185.28.234,44056,true,IAD,North America,Ashburn,224 ms,4161 kB/s
-20.108.51.255,443,true,LHR,Europe,London,287 ms,3975 kB/s
-51.120.240.115,2087,true,CPH,Europe,Copenhagen,311 ms,3714 kB/s
-20.220.204.217,443,true,YYZ,North America,Toronto,231 ms,3186 kB/s
-52.151.81.2,2083,true,LHR,Europe,London,272 ms,3138 kB/s
-20.83.149.174,443,true,IAD,North America,Ashburn,273 ms,2041 kB/s
-51.120.240.115,8080,true,CPH,Europe,Copenhagen,308 ms,1961 kB/s
-20.62.202.159,443,true,IAD,North America,Ashburn,285 ms,1423 kB/s
-20.240.254.247,8443,true,ARN,Europe,Stockholm,313 ms,1216 kB/s
-20.170.41.153,443,true,FRA,Europe,Frankfurt,284 ms,438 kB/s
+4.255.56.137,443,true,IAD,North America,Ashburn,288 ms,5227 kB/s
+4.255.56.138,443,true,IAD,North America,Ashburn,291 ms,5173 kB/s
+20.185.28.234,44056,true,IAD,North America,Ashburn,228 ms,5116 kB/s
+51.120.240.115,2087,true,CPH,Europe,Copenhagen,303 ms,4066 kB/s
+20.220.204.217,443,true,YYZ,North America,Toronto,238 ms,3711 kB/s
+20.108.51.255,443,true,LHR,Europe,London,282 ms,3305 kB/s
+51.107.13.85,8443,true,MXP,Europe,Milan,265 ms,3218 kB/s
+51.120.240.115,8080,true,CPH,Europe,Copenhagen,298 ms,3161 kB/s
+20.62.202.159,443,true,IAD,North America,Ashburn,274 ms,2783 kB/s
+172.190.150.25,8443,true,IAD,North America,Ashburn,277 ms,2254 kB/s
+52.151.81.2,2083,true,LHR,Europe,London,277 ms,1814 kB/s
+20.240.254.247,8443,true,ARN,Europe,Stockholm,329 ms,374 kB/s
+52.137.60.154,443,true,AMS,Europe,Amsterdam,284 ms,0 kB/s
+20.83.149.174,443,true,IAD,North America,Ashburn,281 ms,0 kB/s
