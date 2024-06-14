@@ -1,12 +1,10 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-4.255.56.138,443,true,IAD,North America,Ashburn,282 ms,5559 kB/s
-4.255.56.137,443,true,IAD,North America,Ashburn,277 ms,3311 kB/s
-20.108.51.255,443,true,LHR,Europe,London,283 ms,2899 kB/s
-20.220.204.217,443,true,YYZ,North America,Toronto,226 ms,2718 kB/s
-52.151.81.2,2083,true,LHR,Europe,London,294 ms,2438 kB/s
-20.240.254.247,8443,true,ARN,Europe,Stockholm,319 ms,2421 kB/s
-20.62.202.159,443,true,IAD,North America,Ashburn,282 ms,2069 kB/s
-51.107.13.85,8443,true,MXP,Europe,Milan,279 ms,1865 kB/s
-20.170.41.153,443,true,FRA,Europe,Frankfurt,285 ms,483 kB/s
-52.137.60.154,443,true,AMS,Europe,Amsterdam,291 ms,86 kB/s
-20.83.149.174,443,true,IAD,North America,Ashburn,283 ms,0 kB/s
+4.255.56.138,443,true,IAD,North America,Ashburn,275 ms,5862 kB/s
+4.255.56.137,443,true,IAD,North America,Ashburn,280 ms,5302 kB/s
+20.83.149.174,443,true,IAD,North America,Ashburn,269 ms,4248 kB/s
+20.62.202.159,443,true,IAD,North America,Ashburn,297 ms,4014 kB/s
+20.220.204.217,443,true,YYZ,North America,Toronto,228 ms,3708 kB/s
+20.240.254.247,8443,true,ARN,Europe,Stockholm,323 ms,3119 kB/s
+52.151.81.2,2083,true,LHR,Europe,London,292 ms,1093 kB/s
+20.108.51.255,443,true,LHR,Europe,London,296 ms,614 kB/s
+52.137.60.154,443,true,AMS,Europe,Amsterdam,291 ms,147 kB/s
